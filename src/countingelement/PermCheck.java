@@ -26,7 +26,7 @@ public class PermCheck {
         return  0;
     }
     public  static  void main(String[] args){
-        int[] a = {4,3,5,6,2};
+        int[] a = {4,3,1,6,2};
         System.out.println(solution(a));
     }
 }

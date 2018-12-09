@@ -12,6 +12,7 @@ public class RotateArray {
         for (int b: a){
             System.out.println(b);
         }
+
         return a;
     }
     public  static  void main(String[] args){
