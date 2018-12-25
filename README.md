@@ -1,0 +1,2 @@
+# TestAppCodility
+Example solution
