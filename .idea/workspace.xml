@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2caac9a6-3542-4295-a8a2-b3c4ab401cd5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/TestAppCodility/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/TriangglePascal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestAppCodility/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestAppCodility/RotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,13 +63,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="157">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriangglePascal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/TriangglePascal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1188#1189#0" expanded="true" />
+                <element signature="e#1209#1210#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,12 +127,13 @@
         <option value="$PROJECT_DIR$/src/Segitiga.java" />
         <option value="$PROJECT_DIR$/src/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/TriangglePascal.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="638" />
-    <option name="y" value="163" />
+    <option name="x" value="128" />
+    <option name="y" value="350" />
     <option name="width" value="1346" />
     <option name="height" value="683" />
   </component>
@@ -141,6 +154,12 @@
               <item name="TestAppCodility" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestAppCodility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestAppCodility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestAppCodility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543503855338</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add  TwoSum from letcode">
+      <created>1545735081647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545735081647</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -276,11 +302,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32767403" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32767403" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49552238" visible="true" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49552238" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -306,7 +332,8 @@
     <MESSAGE value="add PermCheck" />
     <MESSAGE value="add FrogRiverOne" />
     <MESSAGE value="add RotateArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="add RotateArray" />
+    <MESSAGE value="add  TwoSum from letcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  TwoSum from letcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -692,10 +719,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="157">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/TriangglePascal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
           </folding>
         </state>
       </provider>
