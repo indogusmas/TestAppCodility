@@ -13,8 +13,10 @@ public class TwoSum {
 
             System.out.println(map.keySet());
         }
+        
         throw new IllegalArgumentException("No two sum solution");
     }
+
     public  static  void main(String[] args){
         int[] result = twoSum(new int[]{3,5,8,10},13);
         for (int i : result){
