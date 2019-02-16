@@ -18,6 +18,6 @@ public class RemoveElement {
     }
 
     public  static void main(String[] args){
-        removeElement(new int[]{1,2,3,4,5}, 1);
+        removeElement(new int[]{1,2,3,4,5}, 7);
     }
 }
